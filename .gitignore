@@ -6,7 +6,6 @@ solutions
 _site
 _cache
 hakyll/site
-src/Set[1-5].hs
 .idea/
 *.iml
 .stack-work/
